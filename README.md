@@ -4,7 +4,7 @@
 * Use the requirements.txt file to create a virtual enviroment.
   * `python -m venv FakeNewsEnv`
   * `python3 -m pip install -r requirements.txt`
-* Replace the `FakeNewsDetection/FakeNewsEnv/lib/python3.8/site-packages/nlpaug/augmenter/word/synonym.py` file with the one included in this repository. 
+* Replace the `FakeNewsDetection/FakeNewsEnv/lib/python3.8/site-packages/nlpaug/augmenter/word/synonym.py` file with the modified one included in this repository. 
 
 
 ## Progress Log
