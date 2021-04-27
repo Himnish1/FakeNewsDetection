@@ -1,0 +1,4 @@
+train_bert.pt
+*.DS_store
+/FakeNewsEnv/*
+!FakeNewsEnv/lib/python3.8/site-packages/nlpaug/augmenter/word/synonym.py
